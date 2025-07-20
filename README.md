@@ -26,8 +26,67 @@
 Hi!/ 你好!/ Salam! I am Katherine Grace Lang and currently at Selangor, Malaysia. Things you should know about me:
 - 😎 I'm currently a software engineer intern in Fermion Sdn Bhd. Doing backend and frontend development to better understand the SLDC inside a Insurtech industry.
 - 📔 Studied in Universiti Malaysia Sabah with a BSc of Mathematics Computer Graphics. Current CGPA: 3.11
+- 🎮 Interest includes: Drawing, Game Design 
 
 ## 🔧 Tools That I Have Learned and Used
+### Languages
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">JavaScript</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/python" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Python</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Java</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/cplusplus" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">C++</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">C#</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/dart" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Dart</span>
+</span>
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/r" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">R</span>
+</span>
+
+### Frontend
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/react" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">React</span>
+</span>
+
+### Backend
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/spring" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Spring Boot</span>
+</span>
+
+### Databases
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/mysql" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">MySQL</span>
+</span>
+
+### DevOps & Tools
+
+<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
+  <img src="https://cdn.simpleicons.org/docker" width="32" height="32" style="display:block;margin:0 auto;" />
+  <span style="font-size:11px;display:block;margin-top:4px;">Docker</span>
+</span>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
