@@ -1,4 +1,4 @@
-![](GalacticEmperorJin/background.gif)
+![](GalacticEmperorJin/GalacticEmperorJin/background.gif)
 
 ## 📬 Contact
 <div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
