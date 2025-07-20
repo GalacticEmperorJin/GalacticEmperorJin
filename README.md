@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVxYWlucWExMDBtbHBjdGh2dXhicmI1NHpnb200ZnRncmRuNjNpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9zCYCqU7MrawVlbun/giphy.gif"/>
-</p>
+![](GalacticEmperorJin/background.gif)
 
 ## 📬 Contact
 <div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
