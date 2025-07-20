@@ -26,7 +26,7 @@
 Hi!/ 你好!/ Salam! I am Katherine Grace Lang and currently at Selangor, Malaysia. Things you should know about me:
 - 😎 I'm currently a software engineer intern in Fermion Sdn Bhd. Doing backend and frontend development to better understand the SLDC inside a Insurtech industry.
 - 📔 Studied in Universiti Malaysia Sabah with a BSc of Mathematics Computer Graphics. Current CGPA: 3.11
-- 🎮 Interest includes: Drawing, Game Design 
+- 🎮 Interest includes: Drawing, Game Design, Software Development 
 
 ## 🔧 Tools That I Have Learned and Used
 ### Languages
@@ -71,3 +71,9 @@ Hi!/ 你好!/ Salam! I am Katherine Grace Lang and currently at Selangor, Malays
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="rstudio" width="45" height="45"/>
 </p>
+
+## 📁 Projects That Have Done
+
+### Primitive Graphics Creator
+
+Create Primitive shapes
