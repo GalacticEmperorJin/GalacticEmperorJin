@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=284&color=gradient&text=⋆.ೃ࿔🌸*:･%20Hello!⋆.ೃ࿔🌸*:･%20&textBg=false&fontSize=50&animation=twinkling&fontAlign=50"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVxYWlucWExMDBtbHBjdGh2dXhicmI1NHpnb200ZnRncmRuNjNpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9zCYCqU7MrawVlbun/giphy.gif"/>
 </p>
 
 ## 📬 Contact
