@@ -30,7 +30,7 @@ Hi!/ 你好!/ Salam! I am Katherine Grace Lang and currently at Selangor, Malays
 
 ## 🔧 Tools That I Have Learned and Used
 ### Languages
-
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -39,14 +39,17 @@ Hi!/ 你好!/ Salam! I am Katherine Grace Lang and currently at Selangor, Malays
 <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="c" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="dart" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r" width="45" height="45"/>
-
+</p>
 ### Frontend
-
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/react" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">React</span>
-</span>
-
+<p align = "left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="opengl" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
+<p>
 ### Backend
 
 <span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
